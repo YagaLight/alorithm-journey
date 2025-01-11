@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/subject001/subject001.iml" filepath="$PROJECT_DIR$/subject001/subject001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yc-alorithm-journey.iml" filepath="$PROJECT_DIR$/yc-alorithm-journey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuo-tixixuexiban/zuo-tixixuexiban.iml" filepath="$PROJECT_DIR$/zuo-tixixuexiban/zuo-tixixuexiban.iml" />
+    </modules>
+  </component>
+</project>
